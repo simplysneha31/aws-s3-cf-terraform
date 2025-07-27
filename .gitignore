@@ -1,0 +1,10 @@
+# .gitignore
+
+.env
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+.crash
+*.log
+*.bak
