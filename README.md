@@ -29,4 +29,6 @@ Note : Ensure, you have create an IAM Users with atleast privildges of creating 
     terraform apply
     terraform destroy (when you are done with your project)
 
-6. After running terraform apply, you can login into AWS Account, goto Cloudformation and see the stack deploying. Once done you would see your S3 bucket build. 
+6. After running terraform apply, you can login into AWS Account, goto Cloudformation and see the stack deploying. Once done you would see your S3 bucket build.
+
+7. Adding this line for cherry picking
